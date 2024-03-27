@@ -1,0 +1,62 @@
+@charset "EUC-KR";
+.meibo{
+	border:none;
+}
+th, td{
+	border:solid;
+	text-align:center;
+}
+.edit_btn_box{
+	border:none;
+}
+.red_btn, .blue_btn{
+	display:inline-block;
+	width:200px;
+	height:30px;
+	font-size:20px;
+	border-radius:5px;
+	color:white;
+	text-align:center;
+}
+.red_btn{
+	background-color:red;
+}
+.blue_btn{
+	background-color:blue;
+}
+.title{
+text-align:center;	
+font-size:50px;
+font-weight: bold;
+}
+.list_box{
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+}
+.each_btn_box{
+	display:inline-block;
+}
+
+
+.login_box{
+	border: 5px black solid;
+	display:inline-block;
+	padding: 10px;
+}
+
+.content_box{
+	display:flex;
+	justify-content:center;
+}
+
+.message{
+	color:red;
+	background-color:pink;
+	text-align:center;
+	font-size:35px;
+	font-weight:bold;
+	margin:20px;
+	padding:10px;
+}
+
+
